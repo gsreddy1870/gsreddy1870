@@ -1,0 +1,665 @@
++ mvn sonar:sonar -Dsonar.projectKey=bahubali -Dsonar.host.url=http://13.60.156.189:9000 -Dsonar.login=ff2ec1f974fe758085b897c48f149901124187e4
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom
+Progress (1): 2.8/6.4 kB
+Progress (1): 5.5/6.4 kB
+Progress (1): 6.4 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom (6.4 kB at 15 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+Progress (1): 2.8/27 kB
+Progress (1): 5.5/27 kB
+Progress (1): 8.3/27 kB
+Progress (1): 11/27 kB 
+Progress (1): 14/27 kB
+Progress (1): 17/27 kB
+Progress (1): 19/27 kB
+Progress (1): 22/27 kB
+Progress (1): 25/27 kB
+Progress (1): 27 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar (27 kB at 709 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom
+Progress (1): 2.8/5.6 kB
+Progress (1): 5.5/5.6 kB
+Progress (1): 5.6 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.pom (5.6 kB at 330 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+Progress (1): 4.1/27 kB
+Progress (1): 8.2/27 kB
+Progress (1): 12/27 kB 
+Progress (1): 16/27 kB
+Progress (1): 20/27 kB
+Progress (1): 25/27 kB
+Progress (1): 27 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar (27 kB at 767 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+Progress (1): 4.1/21 kB
+Progress (1): 8.2/21 kB
+Progress (1): 12/21 kB 
+Progress (1): 16/21 kB
+Progress (1): 20/21 kB
+Progress (1): 21 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom (21 kB at 905 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+Progress (1): 4.1/11 kB
+Progress (1): 8.2/11 kB
+Progress (1): 11 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom (11 kB at 515 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+Progress (1): 4.1/124 kB
+Progress (1): 8.2/124 kB
+Progress (1): 12/124 kB 
+Progress (1): 16/124 kB
+Progress (1): 20/124 kB
+Progress (1): 25/124 kB
+Progress (1): 29/124 kB
+Progress (1): 33/124 kB
+Progress (1): 37/124 kB
+Progress (1): 41/124 kB
+Progress (1): 45/124 kB
+Progress (1): 49/124 kB
+Progress (1): 53/124 kB
+Progress (1): 57/124 kB
+Progress (1): 61/124 kB
+Progress (1): 66/124 kB
+Progress (1): 70/124 kB
+Progress (1): 74/124 kB
+Progress (1): 78/124 kB
+Progress (1): 82/124 kB
+Progress (1): 86/124 kB
+Progress (1): 90/124 kB
+Progress (1): 94/124 kB
+Progress (1): 98/124 kB
+Progress (1): 102/124 kB
+Progress (1): 106/124 kB
+Progress (1): 111/124 kB
+Progress (1): 115/124 kB
+Progress (1): 119/124 kB
+Progress (1): 123/124 kB
+Progress (1): 124 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar (124 kB at 2.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom
+Progress (1): 4.1/4.7 kB
+Progress (1): 4.7 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.pom (4.7 kB at 105 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom
+Progress (1): 4.1/12 kB
+Progress (1): 8.2/12 kB
+Progress (1): 12 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom (12 kB at 783 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar
+Progress (1): 4.1/24 kB
+Progress (1): 8.2/24 kB
+Progress (1): 12/24 kB 
+Progress (1): 16/24 kB
+Progress (1): 20/24 kB
+Progress (1): 24 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.3.jar (24 kB at 1.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom
+Progress (1): 4.1/15 kB
+Progress (1): 8.2/15 kB
+Progress (1): 12/15 kB 
+Progress (1): 15 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom (15 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom
+Progress (1): 4.1/13 kB
+Progress (1): 8.2/13 kB
+Progress (1): 12/13 kB 
+Progress (1): 13 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/16/maven-plugins-16.pom (13 kB at 863 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar
+Progress (1): 4.1/209 kB
+Progress (1): 8.2/209 kB
+Progress (1): 12/209 kB 
+Progress (1): 16/209 kB
+Progress (1): 20/209 kB
+Progress (1): 24/209 kB
+Progress (1): 28/209 kB
+Progress (1): 32/209 kB
+Progress (1): 36/209 kB
+Progress (1): 40/209 kB
+Progress (1): 44/209 kB
+Progress (1): 49/209 kB
+Progress (1): 53/209 kB
+Progress (1): 57/209 kB
+Progress (1): 61/209 kB
+Progress (1): 65/209 kB
+Progress (1): 69/209 kB
+Progress (1): 73/209 kB
+Progress (1): 77/209 kB
+Progress (1): 81/209 kB
+Progress (1): 85/209 kB
+Progress (1): 90/209 kB
+Progress (1): 94/209 kB
+Progress (1): 98/209 kB
+Progress (1): 102/209 kB
+Progress (1): 106/209 kB
+Progress (1): 110/209 kB
+Progress (1): 114/209 kB
+Progress (1): 118/209 kB
+Progress (1): 122/209 kB
+Progress (1): 126/209 kB
+Progress (1): 131/209 kB
+Progress (1): 135/209 kB
+Progress (1): 139/209 kB
+Progress (1): 143/209 kB
+Progress (1): 147/209 kB
+Progress (1): 151/209 kB
+Progress (1): 155/209 kB
+Progress (1): 159/209 kB
+Progress (1): 163/209 kB
+Progress (1): 167/209 kB
+Progress (1): 171/209 kB
+Progress (1): 176/209 kB
+Progress (1): 180/209 kB
+Progress (1): 184/209 kB
+Progress (1): 188/209 kB
+Progress (1): 192/209 kB
+Progress (1): 196/209 kB
+Progress (1): 200/209 kB
+Progress (1): 204/209 kB
+Progress (1): 208/209 kB
+Progress (1): 209 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.jar (209 kB at 3.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom
+Progress (1): 4.1/11 kB
+Progress (1): 8.2/11 kB
+Progress (1): 11 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.pom (11 kB at 545 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar
+Progress (1): 4.1/153 kB
+Progress (1): 8.2/153 kB
+Progress (1): 12/153 kB 
+Progress (1): 16/153 kB
+Progress (1): 20/153 kB
+Progress (1): 25/153 kB
+Progress (1): 29/153 kB
+Progress (1): 33/153 kB
+Progress (1): 37/153 kB
+Progress (1): 41/153 kB
+Progress (1): 45/153 kB
+Progress (1): 49/153 kB
+Progress (1): 53/153 kB
+Progress (1): 57/153 kB
+Progress (1): 61/153 kB
+Progress (1): 66/153 kB
+Progress (1): 70/153 kB
+Progress (1): 74/153 kB
+Progress (1): 78/153 kB
+Progress (1): 82/153 kB
+Progress (1): 86/153 kB
+Progress (1): 90/153 kB
+Progress (1): 94/153 kB
+Progress (1): 98/153 kB
+Progress (1): 102/153 kB
+Progress (1): 106/153 kB
+Progress (1): 111/153 kB
+Progress (1): 115/153 kB
+Progress (1): 119/153 kB
+Progress (1): 123/153 kB
+Progress (1): 127/153 kB
+Progress (1): 131/153 kB
+Progress (1): 135/153 kB
+Progress (1): 139/153 kB
+Progress (1): 143/153 kB
+Progress (1): 147/153 kB
+Progress (1): 152/153 kB
+Progress (1): 153 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-plugin-2.8.jar (153 kB at 4.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.pom
+Progress (1): 4.1/11 kB
+Progress (1): 8.2/11 kB
+Progress (1): 11 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.pom (11 kB at 504 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.5.3/maven-release-2.5.3.pom
+Progress (1): 4.1/5.0 kB
+Progress (1): 5.0 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.5.3/maven-release-2.5.3.pom (5.0 kB at 335 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.jar
+Progress (1): 4.1/53 kB
+Progress (1): 8.2/53 kB
+Progress (1): 12/53 kB 
+Progress (1): 16/53 kB
+Progress (1): 20/53 kB
+Progress (1): 24/53 kB
+Progress (1): 28/53 kB
+Progress (1): 32/53 kB
+Progress (1): 36/53 kB
+Progress (1): 40/53 kB
+Progress (1): 44/53 kB
+Progress (1): 49/53 kB
+Progress (1): 53/53 kB
+Progress (1): 53 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.jar (53 kB at 2.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Progress (1): 4.1/14 kB
+Progress (1): 8.2/14 kB
+Progress (1): 12/14 kB 
+Progress (1): 14 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 kB at 1.0 MB/s)
+Progress (1): 2.8/21 kB
+Progress (1): 5.5/21 kB
+Progress (1): 8.3/21 kB
+Progress (1): 11/21 kB 
+Progress (1): 14/21 kB
+Progress (1): 17/21 kB
+Progress (1): 19/21 kB
+Progress (1): 21 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (21 kB at 529 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/maven-metadata.xml
+Progress (1): 1.4 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/maven-metadata.xml (1.4 kB at 98 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom
+Progress (1): 1.1 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom (1.1 kB at 47 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/40/mojo-parent-40.pom
+Progress (1): 2.8/34 kB
+Progress (1): 5.5/34 kB
+Progress (1): 8.3/34 kB
+Progress (1): 11/34 kB 
+Progress (1): 14/34 kB
+Progress (1): 17/34 kB
+Progress (1): 20/34 kB
+Progress (1): 23/34 kB
+Progress (1): 25/34 kB
+Progress (1): 28/34 kB
+Progress (1): 31/34 kB
+Progress (1): 34 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/40/mojo-parent-40.pom (34 kB at 1.4 MB/s)
+[WARNING] The artifact org.codehaus.mojo:sonar-maven-plugin:jar:4.0.0.4121 has been relocated to org.sonarsource.scanner.maven:sonar-maven-plugin:jar:4.0.0.4121: SonarQube plugin was moved to SonarSource organisation
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom
+Progress (1): 4.1/12 kB
+Progress (1): 8.2/12 kB
+Progress (1): 12 kB    
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.pom (12 kB at 756 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/74.0.0.1768/parent-74.0.0.1768.pom
+Progress (1): 4.1/32 kB
+Progress (1): 8.2/32 kB
+Progress (1): 12/32 kB 
+Progress (1): 16/32 kB
+Progress (1): 20/32 kB
+Progress (1): 25/32 kB
+Progress (1): 29/32 kB
+Progress (1): 32 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/74.0.0.1768/parent-74.0.0.1768.pom (32 kB at 1.8 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.jar
+Progress (1): 4.1/63 kB
+Progress (1): 8.2/63 kB
+Progress (1): 12/63 kB 
+Progress (1): 16/63 kB
+Progress (1): 20/63 kB
+Progress (1): 25/63 kB
+Progress (1): 29/63 kB
+Progress (1): 33/63 kB
+Progress (1): 37/63 kB
+Progress (1): 41/63 kB
+Progress (1): 45/63 kB
+Progress (1): 49/63 kB
+Progress (1): 53/63 kB
+Progress (1): 57/63 kB
+Progress (1): 61/63 kB
+Progress (1): 63 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.jar (63 kB at 2.3 MB/s)
+[INFO] 
+[INFO] ------------------< onlinebookstore:onlinebookstore >-------------------
+[INFO] Building onlinebookstore 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ war ]---------------------------------
+[INFO] 
+[INFO] --- sonar-maven-plugin:4.0.0.4121:sonar (default-cli) @ onlinebookstore ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom
+Progress (1): 3.0 kB
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.pom (3.0 kB at 247 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.pom
+Progress (1): 4.1/5.2 kB
+Progress (1): 5.2 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.pom (5.2 kB at 430 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.3.1081/sonar-scanner-api-parent-2.16.3.1081.pom
+Progress (1): 4.1/4.8 kB
+Progress (1): 4.8 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api-parent/2.16.3.1081/sonar-scanner-api-parent-2.16.3.1081.pom (4.8 kB at 285 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/60.0.52/parent-60.0.52.pom
+Progress (1): 4.1/32 kB
+Progress (1): 8.2/32 kB
+Progress (1): 12/32 kB 
+Progress (1): 16/32 kB
+Progress (1): 20/32 kB
+Progress (1): 25/32 kB
+Progress (1): 29/32 kB
+Progress (1): 32 kB   
+                   
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/parent/parent/60.0.52/parent-60.0.52.pom (32 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.jar
+Progress (1): 4.1/28 kB
+Progress (1): 8.2/28 kB
+Progress (1): 12/28 kB 
+Progress (1): 16/28 kB
+Progress (2): 16/28 kB | 4.1/251 kB
+Progress (2): 16/28 kB | 8.2/251 kB
+Progress (2): 16/28 kB | 12/251 kB 
+Progress (2): 16/28 kB | 16/251 kB
+Progress (2): 16/28 kB | 20/251 kB
+Progress (2): 16/28 kB | 25/251 kB
+Progress (2): 16/28 kB | 29/251 kB
+Progress (2): 16/28 kB | 33/251 kB
+Progress (2): 16/28 kB | 37/251 kB
+Progress (2): 16/28 kB | 41/251 kB
+Progress (2): 16/28 kB | 45/251 kB
+Progress (2): 16/28 kB | 49/251 kB
+Progress (2): 16/28 kB | 53/251 kB
+Progress (2): 16/28 kB | 57/251 kB
+Progress (2): 16/28 kB | 61/251 kB
+Progress (2): 16/28 kB | 66/251 kB
+Progress (2): 16/28 kB | 70/251 kB
+Progress (2): 16/28 kB | 74/251 kB
+Progress (2): 16/28 kB | 78/251 kB
+Progress (2): 16/28 kB | 82/251 kB
+Progress (2): 16/28 kB | 86/251 kB
+Progress (2): 16/28 kB | 90/251 kB
+Progress (2): 16/28 kB | 94/251 kB
+Progress (2): 16/28 kB | 98/251 kB
+Progress (2): 20/28 kB | 98/251 kB
+Progress (2): 24/28 kB | 98/251 kB
+Progress (2): 28 kB | 98/251 kB   
+Progress (2): 28 kB | 102/251 kB
+Progress (2): 28 kB | 106/251 kB
+Progress (2): 28 kB | 111/251 kB
+Progress (2): 28 kB | 115/251 kB
+                                
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar (28 kB at 660 kB/s)
+Progress (2): 115/251 kB | 2.8/625 kB
+Progress (2): 115/251 kB | 5.5/625 kB
+Progress (2): 115/251 kB | 8.3/625 kB
+Progress (2): 115/251 kB | 11/625 kB 
+Progress (2): 115/251 kB | 14/625 kB
+Progress (2): 119/251 kB | 14/625 kB
+Progress (2): 123/251 kB | 14/625 kB
+Progress (2): 127/251 kB | 14/625 kB
+Progress (2): 131/251 kB | 14/625 kB
+Progress (2): 135/251 kB | 14/625 kB
+Progress (2): 139/251 kB | 14/625 kB
+Progress (2): 143/251 kB | 14/625 kB
+Progress (2): 147/251 kB | 14/625 kB
+Progress (2): 152/251 kB | 14/625 kB
+Progress (2): 156/251 kB | 14/625 kB
+Progress (2): 160/251 kB | 14/625 kB
+Progress (2): 164/251 kB | 14/625 kB
+Progress (2): 168/251 kB | 14/625 kB
+Progress (2): 172/251 kB | 14/625 kB
+Progress (2): 176/251 kB | 14/625 kB
+Progress (2): 180/251 kB | 14/625 kB
+Progress (2): 184/251 kB | 14/625 kB
+Progress (2): 188/251 kB | 14/625 kB
+Progress (2): 193/251 kB | 14/625 kB
+Progress (2): 197/251 kB | 14/625 kB
+Progress (2): 201/251 kB | 14/625 kB
+Progress (2): 205/251 kB | 14/625 kB
+Progress (2): 209/251 kB | 14/625 kB
+Progress (2): 213/251 kB | 14/625 kB
+Progress (2): 217/251 kB | 14/625 kB
+Progress (2): 221/251 kB | 14/625 kB
+Progress (2): 225/251 kB | 14/625 kB
+Progress (2): 229/251 kB | 14/625 kB
+Progress (2): 233/251 kB | 14/625 kB
+Progress (2): 238/251 kB | 14/625 kB
+Progress (2): 242/251 kB | 14/625 kB
+Progress (2): 242/251 kB | 18/625 kB
+Progress (2): 242/251 kB | 22/625 kB
+Progress (2): 242/251 kB | 26/625 kB
+Progress (2): 242/251 kB | 30/625 kB
+Progress (2): 246/251 kB | 30/625 kB
+Progress (2): 250/251 kB | 30/625 kB
+Progress (2): 251 kB | 30/625 kB    
+Progress (2): 251 kB | 34/625 kB
+Progress (2): 251 kB | 38/625 kB
+Progress (2): 251 kB | 42/625 kB
+Progress (2): 251 kB | 47/625 kB
+Progress (2): 251 kB | 51/625 kB
+Progress (2): 251 kB | 55/625 kB
+Progress (2): 251 kB | 59/625 kB
+Progress (2): 251 kB | 63/625 kB
+Progress (2): 251 kB | 67/625 kB
+Progress (2): 251 kB | 71/625 kB
+Progress (2): 251 kB | 75/625 kB
+Progress (2): 251 kB | 79/625 kB
+Progress (2): 251 kB | 83/625 kB
+Progress (2): 251 kB | 88/625 kB
+Progress (2): 251 kB | 92/625 kB
+Progress (2): 251 kB | 96/625 kB
+Progress (2): 251 kB | 100/625 kB
+Progress (2): 251 kB | 104/625 kB
+Progress (2): 251 kB | 108/625 kB
+Progress (2): 251 kB | 112/625 kB
+                                 
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar (251 kB at 3.6 MB/s)
+Progress (1): 116/625 kB
+Progress (1): 120/625 kB
+Progress (1): 124/625 kB
+Progress (1): 128/625 kB
+Progress (1): 133/625 kB
+Progress (1): 137/625 kB
+Progress (1): 141/625 kB
+Progress (1): 145/625 kB
+Progress (1): 149/625 kB
+Progress (1): 153/625 kB
+Progress (1): 157/625 kB
+Progress (1): 161/625 kB
+Progress (1): 165/625 kB
+Progress (1): 169/625 kB
+Progress (1): 174/625 kB
+Progress (1): 178/625 kB
+Progress (1): 182/625 kB
+Progress (1): 186/625 kB
+Progress (1): 190/625 kB
+Progress (1): 194/625 kB
+Progress (1): 198/625 kB
+Progress (1): 202/625 kB
+Progress (1): 206/625 kB
+Progress (1): 210/625 kB
+Progress (1): 214/625 kB
+Progress (1): 219/625 kB
+Progress (1): 223/625 kB
+Progress (1): 227/625 kB
+Progress (1): 231/625 kB
+Progress (1): 235/625 kB
+Progress (1): 239/625 kB
+Progress (1): 243/625 kB
+Progress (1): 247/625 kB
+Progress (1): 251/625 kB
+Progress (1): 255/625 kB
+Progress (1): 260/625 kB
+Progress (1): 264/625 kB
+Progress (1): 268/625 kB
+Progress (1): 272/625 kB
+Progress (1): 276/625 kB
+Progress (1): 280/625 kB
+Progress (1): 284/625 kB
+Progress (1): 288/625 kB
+Progress (1): 292/625 kB
+Progress (1): 296/625 kB
+Progress (1): 301/625 kB
+Progress (1): 305/625 kB
+Progress (1): 309/625 kB
+Progress (1): 313/625 kB
+Progress (1): 317/625 kB
+Progress (1): 321/625 kB
+Progress (1): 325/625 kB
+Progress (1): 329/625 kB
+Progress (1): 333/625 kB
+Progress (1): 337/625 kB
+Progress (1): 341/625 kB
+Progress (1): 346/625 kB
+Progress (1): 350/625 kB
+Progress (1): 354/625 kB
+Progress (1): 358/625 kB
+Progress (1): 362/625 kB
+Progress (1): 366/625 kB
+Progress (1): 370/625 kB
+Progress (1): 374/625 kB
+Progress (1): 378/625 kB
+Progress (1): 382/625 kB
+Progress (1): 387/625 kB
+Progress (1): 391/625 kB
+Progress (1): 395/625 kB
+Progress (1): 399/625 kB
+Progress (1): 402/625 kB
+Progress (1): 406/625 kB
+Progress (1): 410/625 kB
+Progress (1): 414/625 kB
+Progress (1): 418/625 kB
+Progress (1): 422/625 kB
+Progress (1): 427/625 kB
+Progress (1): 431/625 kB
+Progress (1): 435/625 kB
+Progress (1): 439/625 kB
+Progress (1): 443/625 kB
+Progress (1): 447/625 kB
+Progress (1): 451/625 kB
+Progress (1): 455/625 kB
+Progress (1): 459/625 kB
+Progress (1): 463/625 kB
+Progress (1): 468/625 kB
+Progress (1): 472/625 kB
+Progress (1): 476/625 kB
+Progress (1): 480/625 kB
+Progress (1): 484/625 kB
+Progress (1): 488/625 kB
+Progress (1): 492/625 kB
+Progress (1): 496/625 kB
+Progress (1): 500/625 kB
+Progress (1): 504/625 kB
+Progress (1): 508/625 kB
+Progress (1): 513/625 kB
+Progress (1): 517/625 kB
+Progress (1): 521/625 kB
+Progress (1): 525/625 kB
+Progress (1): 529/625 kB
+Progress (1): 533/625 kB
+Progress (1): 537/625 kB
+Progress (1): 541/625 kB
+Progress (1): 545/625 kB
+Progress (1): 549/625 kB
+Progress (1): 554/625 kB
+Progress (1): 558/625 kB
+Progress (1): 562/625 kB
+Progress (1): 566/625 kB
+Progress (1): 570/625 kB
+Progress (1): 574/625 kB
+Progress (1): 578/625 kB
+Progress (1): 582/625 kB
+Progress (1): 586/625 kB
+Progress (1): 590/625 kB
+Progress (1): 594/625 kB
+Progress (1): 599/625 kB
+Progress (1): 603/625 kB
+Progress (1): 607/625 kB
+Progress (1): 611/625 kB
+Progress (1): 615/625 kB
+Progress (1): 619/625 kB
+Progress (1): 623/625 kB
+Progress (1): 625 kB    
+                    
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.jar (625 kB at 5.4 MB/s)
+[WARNING] 11:33:30.122 Using an unspecified version instead of an explicit plugin version may introduce breaking analysis changes at an unwanted time. It is highly recommended to use an explicit version, e.g. 'org.sonarsource.scanner.maven:sonar-maven-plugin:4.0.0.4121'.
+[INFO] 11:33:30.135 Java 17.0.11 Amazon.com Inc. (64-bit)
+[INFO] 11:33:30.135 Linux 6.1.94-99.176.amzn2023.x86_64 (amd64)
+[INFO] 11:33:30.183 User cache: /var/lib/jenkins/.sonar/cache
+[INFO] 11:33:30.617 Communicating with SonarQube Server 7.6.0
+[INFO] 11:33:30.697 Default locale: "en", source code encoding: "UTF-8" (analysis is platform dependent)
+[INFO] 11:33:31.222 Load global settings
+[INFO] 11:33:31.325 Load global settings (done) | time=105ms
+[INFO] 11:33:31.328 Server id: BF41A1F2-AZB9W2PUGRe-9oQ6Scc6
+[INFO] 11:33:31.344 User cache: /var/lib/jenkins/.sonar/cache
+[INFO] 11:33:31.642 Load/download plugins
+[INFO] 11:33:31.642 Load plugins index
+[INFO] 11:33:31.716 Load plugins index (done) | time=74ms
+[INFO] 11:33:32.750 Load/download plugins (done) | time=1107ms
+[INFO] 11:33:33.641 Process project properties
+[INFO] 11:33:33.655 Execute project builders
+[INFO] 11:33:33.659 Execute project builders (done) | time=4ms
+[INFO] 11:33:33.664 Project key: bahubali
+[INFO] 11:33:33.665 Base dir: /var/lib/jenkins/workspace/New Pipe Pro
+[INFO] 11:33:33.665 Working dir: /var/lib/jenkins/workspace/New Pipe Pro/target/sonar
+[INFO] 11:33:33.695 Load project settings
+[INFO] 11:33:33.746 Load project settings (done) | time=52ms
+[INFO] 11:33:33.897 Load project repositories
+[INFO] 11:33:33.957 Load project repositories (done) | time=59ms
+[INFO] 11:33:33.958 Load quality profiles
+[INFO] 11:33:34.086 Load quality profiles (done) | time=128ms
+[INFO] 11:33:34.120 Load active rules
+[INFO] 11:33:38.579 Load active rules (done) | time=4459ms
+[INFO] 11:33:38.581 Load metrics repository
+[INFO] 11:33:38.670 Load metrics repository (done) | time=89ms
+[INFO] 11:33:38.833 Indexing files...
+[INFO] 11:33:38.835 Project configuration:
+[INFO] 11:33:38.965 57 files indexed
+[INFO] 11:33:38.969 Quality profile for css: Sonar way
+[INFO] 11:33:38.969 Quality profile for java: Sonar way
+[INFO] 11:33:38.969 Quality profile for web: Sonar way
+[INFO] 11:33:38.969 Quality profile for xml: Sonar way
+[INFO] 11:33:38.969 ------------- Run sensors on module onlinebookstore
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  12.274 s
+[INFO] Finished at: 2024-07-04T11:33:39Z
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.sonarsource.scanner.maven:sonar-maven-plugin:4.0.0.4121:sonar (default-cli) on project onlinebookstore: Execution default-cli of goal org.sonarsource.scanner.maven:sonar-maven-plugin:4.0.0.4121:sonar failed: An API incompatibility was encountered while executing org.sonarsource.scanner.maven:sonar-maven-plugin:4.0.0.4121:sonar: java.lang.ExceptionInInitializerError: null
+[ERROR] -----------------------------------------------------
+[ERROR] realm =    plugin>org.codehaus.mojo:sonar-maven-plugin:4.0.0.4121
+[ERROR] strategy = org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy
+[ERROR] urls[0] = file:/var/lib/jenkins/.m2/repository/org/sonarsource/scanner/maven/sonar-maven-plugin/4.0.0.4121/sonar-maven-plugin-4.0.0.4121.jar
+[ERROR] urls[1] = file:/var/lib/jenkins/.m2/repository/org/sonatype/plexus/plexus-sec-dispatcher/1.4/plexus-sec-dispatcher-1.4.jar
+[ERROR] urls[2] = file:/var/lib/jenkins/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar
+[ERROR] urls[3] = file:/var/lib/jenkins/.m2/repository/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+[ERROR] urls[4] = file:/var/lib/jenkins/.m2/repository/org/sonarsource/scanner/api/sonar-scanner-api/2.16.3.1081/sonar-scanner-api-2.16.3.1081.jar
+[ERROR] urls[5] = file:/var/lib/jenkins/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+[ERROR] Number of foreign imports: 1
+[ERROR] import: Entry[import  from realm ClassRealm[maven.api, parent: null]]
+[ERROR] 
+[ERROR] -----------------------------------------------------
+[ERROR] : java.lang.reflect.InaccessibleObjectException-->Unable to make protected final java.lang.Class java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain) throws java.lang.ClassFormatError accessible: module java.base does not "opens java.lang" to unnamed module @5f68eec6
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginContainerException
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
