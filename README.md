@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gadgets, Technologies
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me gsreddy9581@gmail.com
+- 📫 How to reach me 9,5,8,1,Five,Six,Five,Seven,Five,Eight
 - 😄 Pronouns: sudhakar
 - ⚡ Fun fact: Never Settle
 
